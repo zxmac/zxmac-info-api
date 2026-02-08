@@ -1,0 +1,20 @@
+export const GSheetConstant = {
+	KEY_GROUP_ID: 'groupId',
+  KEY_KEY: 'key',
+  KEY_VALUE: 'value',
+  KEY_DESCRIPTION: 'description',
+
+  CV_PROFILE: 'CVPRL',
+  CV_SKILL: 'CVSKL',
+  CV_SUMMARY: 'CVSMY',
+  CV_EXPERIENCE: 'CVEXP',
+  CV_REFERENCE: 'CVREF',
+  CV_EDUCATION: 'CVEDU',
+  CV_TABTITLE: 'CVTABTITLE',
+  CV_TECH: 'CVTECH',
+  CV_STYLE: 'CVSTYLE',
+
+  ID_SEPARATOR: '_',
+  PARAM_ID_LNGTH: 8,
+  SLICE_ID_LNGTH: 4,
+};
